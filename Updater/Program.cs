@@ -51,7 +51,7 @@ namespace Updater
 
             var proc = new Process();
             proc.StartInfo.FileName = procName;
-            //proc.StartInfo.CreateNoWindow = true;
+            proc.StartInfo.CreateNoWindow = true;
             proc.StartInfo.WorkingDirectory = procPath;
             proc.Start();
         }
