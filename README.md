@@ -1,5 +1,5 @@
 # Custom-Updater
-A universal auto-updater, designed specfically for my custom Synapse UIs.
+A universal auto-updater, designed specifically for my custom Synapse UIs.
 
 # Usage
 Command line arguments:
